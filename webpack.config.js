@@ -49,5 +49,6 @@ module.exports = {
         port: port,
         open: true,
         historyApiFallback: true,
+        writeToDisk: true
     },
 };
